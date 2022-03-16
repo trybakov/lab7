@@ -1,0 +1,22 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "lab7",
+  "main": "lab7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trybakov/lab7.git"
+  },
+  "author": "Tony Rybakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trybakov/lab7/issues"
+  },
+  "homepage": "https://github.com/trybakov/lab7#readme",
+  "dependencies": {
+    "http-status-codes": "^2.2.0"
+  }
+}
